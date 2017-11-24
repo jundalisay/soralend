@@ -1,7 +1,6 @@
 //sol NameReg
 // Simple global name registrar.
-// @authors:
-//   Gav Wood <g@ethdev.com>
+
 import "service";
 import "owned";
 
